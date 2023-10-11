@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Rdixit21/Rdixit21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**Rsdixit21/Rsdixit21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <!-- <p align="center">
   <img src="images/gif1.gif" width=300>
   <br /><br />
@@ -40,7 +40,7 @@ __IDEs/Editors__
 ## Reach Me:
 
 <p align="start">
-    <a href="https://github.com/iMonk0910" target="_blank">
+    <a href="https://github.com/Rsdixit21" target="_blank">
         <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white&color=black" alt="Github" />
     </a>
 <!--     <a href="https://twitter.com/p_dixitt" target="_blank">
